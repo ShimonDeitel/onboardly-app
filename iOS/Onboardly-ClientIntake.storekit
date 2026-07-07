@@ -1,0 +1,29 @@
+{
+  "identifier": "onboardly",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "onboardly_pro",
+      "localizations": [
+        {
+          "description": "Multiple checklist templates per service type",
+          "displayName": "Onboardly - Client Intake Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "onboardly_pro",
+      "referenceName": "Onboardly - Client Intake Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
